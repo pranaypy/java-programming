@@ -13,7 +13,7 @@ public class ToDoList {
         tdlBuffer.append("1.").append(toDoList.get(0)).append("\n");
         tdlBuffer.append("2.").append(toDoList.get(1)).append("\n");
         tdlBuffer.append("3.").append(toDoList.get(2)).append("\n");
-         System.out.println(tdlBuffer);
+        System.out.println(tdlBuffer);
 
     }
     

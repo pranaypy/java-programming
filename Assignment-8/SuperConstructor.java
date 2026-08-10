@@ -14,7 +14,8 @@ class SuperChild2 extends SuperParent2{
 
 public class SuperConstructor {
     public static void main(String[] args){
-        new SuperChild2(); // valid statement
+        new SuperChild2(); // valid statement - will call this default constuructor of child class and inside it,
+                        // will call the parent class constructor using super() keyword
     }
     
 }

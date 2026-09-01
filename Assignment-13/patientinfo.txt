@@ -1,0 +1,5 @@
+------- PATIENT INFORMATION -------
+Name: John Doe
+Patient ID: 10267
+Age: 36
+Diagnosis: Healthy
